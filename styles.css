@@ -31,6 +31,12 @@ body {
     margin: 10px;
     text-align: center;
 }
+.features{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid black;
+}
 h1,
 h2,
 h3,
