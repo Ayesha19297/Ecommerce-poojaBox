@@ -27,6 +27,68 @@ body {
   height: 100%;
   object-fit: cover;
 }
+/* Flexbox Slider Container */
+.flex-slider {
+  margin: 10px;
+  padding: 10px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.flex-slider-wrapper {
+  display: flex;
+  padding: 20px;
+  transition: transform 0.3s ease;
+  margin: 10px;
+}
+
+.flex-slide {
+  flex: 0 0 auto;
+  width: 200px;
+  box-sizing: border-box;
+  margin-right: 10px;
+}
+
+.flex-slide img {
+  width: 100%;
+  height: 200px;
+  border-radius: 200px;
+  object-fit: cover;
+}
+
+/* Navigation Buttons */
+.flex-slider-prev,
+.flex-slider-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+.slide-content {
+  text-align: center;
+}
+
+.slide-name {
+  padding: 5px;
+  margin-top: 5px;
+  font-size: 14px;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.flex-slider-prev {
+  left: 10px;
+}
+
+.flex-slider-next {
+  right: 10px;
+}
+
 .grid-title {
   padding: 10px;
   display: flex;

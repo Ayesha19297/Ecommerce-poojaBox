@@ -1,17 +1,48 @@
 {
   "carousel_images": [
     {
-      "rakhi": "https://www.mypoojabox.in/cdn/shop/files/DSC_0975_1b7f6388-e4ab-49e4-9f9a-72dd84b036ac_300x.jpg?v=1718779745",
-      "evilEye": "https://www.mypoojabox.in/cdn/shop/files/Evil_Eye_300x.png?v=1687507176",
-      "pojaThali": "https://www.mypoojabox.in/cdn/shop/files/pooja-thali-sets_300x.png?v=1707472825",
-      "roseQuartz": "https://www.mypoojabox.in/cdn/shop/files/DSC_5574_a4ca7ca8-4d85-4749-aef0-59fed43b9600_300x.jpg?v=1718779950",
-      "urlis": "https://www.mypoojabox.in/cdn/shop/files/urlis_300x.png?v=1672914906",
-      "pyrite": "https://www.mypoojabox.in/cdn/shop/files/Pyrite_300x.png?v=1713260950",
-      "citrine": "https://www.mypoojabox.in/cdn/shop/files/citrine_300x.png?v=1713256314",
-      "chantingBox": "https://www.mypoojabox.in/cdn/shop/files/citrine_300x.png?v=1713256314",
-      "moonStone": "https://www.mypoojabox.in/cdn/shop/files/moonstone_300x.png?v=1714465690",
-      "amethyst": "https://www.mypoojabox.in/cdn/shop/files/amethyst_300x.png?v=1713260255",
-      "clearQuartz": "https://www.mypoojabox.in/cdn/shop/files/New_Project_7_300x.png?v=1719230218"
+      "src": "https://www.mypoojabox.in/cdn/shop/files/DSC_0975_1b7f6388-e4ab-49e4-9f9a-72dd84b036ac_300x.jpg?v=1718779745",
+      "alt": "Rakhi"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/Evil_Eye_300x.png?v=1687507176",
+      "alt": "Evil Eye"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/pooja-thali-sets_300x.png?v=1707472825",
+      "alt": "Poja Thali"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/DSC_5574_a4ca7ca8-4d85-4749-aef0-59fed43b9600_300x.jpg?v=1718779950",
+      "alt": "Rose Quartz"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/urlis_300x.png?v=1672914906",
+      "alt": "Urlis"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/Pyrite_300x.png?v=1713260950",
+      "alt": "Pyrite"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/citrine_300x.png?v=1713256314",
+      "alt": "Citrine"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/citrine_300x.png?v=1713256314",
+      "alt": "Chanting Box"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/moonstone_300x.png?v=1714465690",
+      "alt": "Moon Stone"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/amethyst_300x.png?v=1713260255",
+      "alt": "Amethyst"
+    },
+    {
+      "src": "https://www.mypoojabox.in/cdn/shop/files/New_Project_7_300x.png?v=1719230218",
+      "alt": "Clear Quartz"
     }
   ],
   "ganesh_chaturthi": [
