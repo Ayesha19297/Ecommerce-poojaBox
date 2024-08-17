@@ -17,84 +17,103 @@
   "ganesh_chaturthi": [
     {
       "id": 1,
-      "image1": "https://www.mypoojabox.in/cdn/shop/files/DSC06787_copy_225x.jpg?v=1721022696",
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC06787_copy_225x.jpg?v=1721022696",
       "name": "Eco-Friendly Buddhividhata Ganesh",
       "price": "MRP ₹1,599"
     },
     {
       "id": 2,
-      "image2": "https://www.mypoojabox.in/cdn/shop/files/DSC05654_copy_225x.jpg?v=1718715971",
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC05654_copy_225x.jpg?v=1718715971",
       "name": "Eco-Friendly Ganesh",
-      "price": "MRP ₹1,599"
+      "price": "MRP ₹1,499"
     },
     {
-      "image3": "https://www.mypoojabox.in/cdn/shop/files/DSC06753_copy_225x.jpg?v=1721021580",
+      "id": 3,
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC06753_copy_225x.jpg?v=1721021580",
       "name": "Eco-Friendly Buddhividhata Ganesh",
-      "price": "MRP ₹1,599"
+      "price": "MRP ₹1,299"
     },
     {
-      "image4": "https://www.mypoojabox.in/cdn/shop/files/DSC07011_copy_225x.jpg?v=1721022275",
+      "id": 4,
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC07011_copy_225x.jpg?v=1721022275",
       "name": "Eco-Friendly Buddhividhata Ganesh",
-      "price": "MRP ₹1,599"
+      "price": "MRP ₹1,199"
     },
     {
-      "image5": "https://www.mypoojabox.in/cdn/shop/files/DSC06869_copy_225x.jpg?v=1721021650",
+      "id": 5,
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC06869_copy_225x.jpg?v=1721021650",
       "name": "Eco-Friendly Buddhividhata Ganesh",
+      "price": "MRP ₹1,399"
+    },
+    {
+      "id": 6,
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC05654_copy_225x.jpg?v=1718715971",
+      "name": "Eco-Friendly Ganesh",
       "price": "MRP ₹1,599"
     }
   ],
   "decorations": [
     {
-      "image1": "https://www.mypoojabox.in/cdn/shop/files/Backdrop_c5495f13-f4dd-4677-b8c1-4c8dced40376_225x.jpg?v=1687594066",
+      "image": "https://www.mypoojabox.in/cdn/shop/files/Backdrop_c5495f13-f4dd-4677-b8c1-4c8dced40376_225x.jpg?v=1687594066",
       "name": "Artificial jasmine flower",
       "price": "MRP ₹1,699"
     },
     {
-      "image2": "https://www.mypoojabox.in/cdn/shop/files/DSC_2539_225x.jpg?v=1721155620",
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC_2539_225x.jpg?v=1721155620",
       "name": "velvet poooja mat",
-      "price": "MRP ₹1,699"
+      "price": "MRP ₹499"
     },
     {
-      "image3": "https://www.mypoojabox.in/cdn/shop/files/DSC06325_copy_225x.jpg?v=1721021796",
-      "name": "",
-      "price": "MRP ₹1,699"
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC06325_copy_225x.jpg?v=1721021796",
+      "name": "Modak scented candle gift box",
+      "price": "MRP ₹399"
     },
     {
-      "image4": "https://www.mypoojabox.in/cdn/shop/products/IMG_9227_1_225x.jpg?v=1633613620",
-      "name": "",
-      "price": "MRP ₹1,699"
+      "image": "https://www.mypoojabox.in/cdn/shop/products/IMG_9227_1_225x.jpg?v=1633613620",
+      "name": "Marvellous phool bangla Backdrop Decoration",
+      "price": "MRP ₹799"
     },
     {
-      "image5": "https://www.mypoojabox.in/cdn/shop/files/DSC07271copy_225x.jpg?v=1692899275",
-      "name": "",
-      "price": "MRP ₹1,699"
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC07271copy_225x.jpg?v=1692899275",
+      "name": "Incredible floral red white Backdrop Decoration",
+      "price": "MRP ₹1,099"
+    },
+    {
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC06325_copy_225x.jpg?v=1721021796",
+      "name": "Modak scented candle gift box",
+      "price": "MRP ₹399"
     }
   ],
   "lamps": [
     {
-      "image1": "https://www.mypoojabox.in/cdn/shop/files/DSC00972copy_225x.jpg?v=1712756637",
-      "name": "",
-      "price": ""
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC00972copy_225x.jpg?v=1712756637",
+      "name": "Natural plug-in Himalayan salt lamp",
+      "price": "MRP ₹199"
     },
     {
-      "image2": "https://www.mypoojabox.in/cdn/shop/files/DSC01721copy_0f8d19a1-aa46-4abf-91a9-d527127479b4_225x.jpg?v=1711692916",
-      "name": "",
-      "price": ""
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC01721copy_0f8d19a1-aa46-4abf-91a9-d527127479b4_225x.jpg?v=1711692916",
+      "name": "Floral plug-in Himalayan salt lamp",
+      "price": "MRP ₹299"
     },
     {
-      "image3": "https://www.mypoojabox.in/cdn/shop/files/DSC08939copy_225x.jpg?v=1701964359",
-      "name": "",
-      "price": ""
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC08939copy_225x.jpg?v=1701964359",
+      "name": "Anahata design plug-in lamp",
+      "price": "MRP ₹399"
     },
     {
-      "image4": "https://www.mypoojabox.in/cdn/shop/products/IMG_0300_225x.jpg?v=1652709059",
-      "name": "",
-      "price": ""
+      "image": "https://www.mypoojabox.in/cdn/shop/products/IMG_0300_225x.jpg?v=1652709059",
+      "name": "Pyramid evil-eye himalayan salt lamp",
+      "price": "MRP ₹499"
     },
     {
-      "image5": "https://www.mypoojabox.in/cdn/shop/products/IMG_0252_225x.jpg?v=1652708980",
-      "name": "",
-      "price": ""
+      "image": "https://www.mypoojabox.in/cdn/shop/products/IMG_0252_225x.jpg?v=1652708980",
+      "name": "Himalayan pink salt cylindrical lamp",
+      "price": "MRP ₹599"
+    },
+    {
+      "image": "https://www.mypoojabox.in/cdn/shop/files/DSC00972copy_225x.jpg?v=1712756637",
+      "name": "Natural plug-in lamp",
+      "price": "MRP ₹699"
     }
   ]
 }
